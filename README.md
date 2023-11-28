@@ -1,6 +1,6 @@
-## Hey! My nmae is Gabriel and this is my Github 👋
+## Hey! Welcome to my Github 👋
 
-- 🌱 Hellow, my name is Gabriel and I'm 18 years. At the moment I'm studying Development and Analysis of System at Senai.
+- 🌱 Hellow, my name is Gabriel and I'm 18 years old. At the moment I'm studying Development and Analysis of System at Senai.
 - 🔭 Feel free to get in touch using the links below 
   
   
